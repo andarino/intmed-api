@@ -12,7 +12,7 @@
 3. python manage.py runserver
 
 ### EXPLORANDO  O PROJETO 
-* Para cadastrar os médicos e as agendas você deve entrar na seguinte url: `http://localhost:8000/admin`
+* Para cadastrar os médicos e as agendas você deve entrar na seguinte url: `http://127.0.0.1:8000/admin`
 
 * user: andar1n0
 
