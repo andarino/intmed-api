@@ -40,9 +40,9 @@ DELETE| /conulsta/<pk> |Exclui a Consulta com a PK informada
  
 (( x )) Agendas para datas passadas ou que todos os seus horários já foram preenchidos devem ser excluídas da listagem 
   
-[ x ] Não deve ser possível desmarcar uma consulta que nunca foi marcada (identificador inexistente)
+- [ x ] Não deve ser possível desmarcar uma consulta que nunca foi marcada (identificador inexistente)
   
-[x] Não deve ser possível criar uma agenda para um médico em um dia passado
+- [x] Não deve ser possível criar uma agenda para um médico em um dia passado
   
 [x] Não deve ser possível marcar consultas para dia e horário passados
   
