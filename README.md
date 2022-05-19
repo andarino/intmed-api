@@ -33,7 +33,18 @@ GET| /consultas/| Lista todos as consultas
 GET| /agenda/| Lista as agendas 
 POST| /consultas | Cadastra uma consulta
 DELETE| /conulsta/<pk> |Exclui a Consulta com a PK informada
+ 
+## Exemplos
+> http://127.0.0.1:8000/consulta/
   
+  ```json
+  {
+	"dia": "2029-07-03",
+  "horario": "14:00",
+	"doctor_agenda": 2
+}
+
+  ```
   
 ### Notas importantes:
 - [x] A listagem não deve exibir consultas para dia e horário passados
