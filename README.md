@@ -22,6 +22,7 @@ django: 4.0.4
 * Para cadastrar os médicos e as agendas você deve entrar na seguinte url: `http://127.0.0.1:8000/admin`.
 
 >user: andar1n0
+
 >password: yo199
 
 ## Endpoints
