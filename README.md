@@ -35,7 +35,7 @@ POST| /consultas | Cadastra uma consulta
 DELETE| /conulsta/<pk> |Exclui a Consulta com a PK informada
  
 ## Exemplos
-> http://127.0.0.1:8000/consulta/
+```POST http://127.0.0.1:8000/consulta/ ```
   
   ```json
   {
