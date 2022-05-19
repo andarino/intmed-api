@@ -26,3 +26,10 @@ django: 4.0.4
 >password: yo199
 
 ## Endpoints
+
+Método | Recurso | Descricão
+-------|---------|----------
+GET| /consultas/| Lista todos as consultas 
+GET| /agenda/| Lista as agendas 
+POST| /consultas | Cadastra uma consulta
+DELETE| /conulsta/<pk> |Exclui a Consulta com a PK informada
