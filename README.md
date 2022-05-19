@@ -36,7 +36,7 @@ DELETE| /conulsta/<pk> |Exclui a Consulta com a PK informada
   
   
 ### Notas importantes:
-[[x]] A listagem não deve exibir consultas para dia e horário passados
+[[ x ]] A listagem não deve exibir consultas para dia e horário passados
  
 [x] Agendas para datas passadas ou que todos os seus horários já foram preenchidos devem ser excluídas da listagem 
   
