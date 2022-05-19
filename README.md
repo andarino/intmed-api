@@ -44,7 +44,7 @@ DELETE| /consulta/<pk> |Exclui a Consulta com a PK informada
   	"horario": "14:00",
 	"doctor_agenda": 2
 }
-
+```
 
 	
 ### Notas importantes:
