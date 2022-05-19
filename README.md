@@ -34,7 +34,7 @@ GET| /agenda/| Lista as agendas
 POST| /consultas | Cadastra uma consulta
 DELETE| /consulta/<pk> |Exclui a Consulta com a PK informada
  
-Nota: `Exemplo de como marcar uma consulta
+Nota: `Exemplo de como marcar uma consulta`
 	
 ```POST http://127.0.0.1:8000/consulta/ ```
   
