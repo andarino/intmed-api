@@ -1,5 +1,12 @@
 # intmed-desafio
 ## INSTRUCOES PARA RODAR O PROJETO
+
+### Dependências
+```
+Python: 3.10.2
+django: 4.0.4
+```
+
 ### 1.1 Configurando o ambiente virtual
 1. `python3 -m venv myenv`
 2. `source venv/bin/activate`
@@ -12,9 +19,9 @@
 3. `python manage.py runserver`
 
 ### EXPLORANDO  O PROJETO 
-* Para cadastrar os médicos e as agendas você deve entrar na seguinte url: `http://127.0.0.1:8000/admin`
+* Para cadastrar os médicos e as agendas você deve entrar na seguinte url: `http://127.0.0.1:8000/admin`.
 
-* user: andar1n0
+>user: andar1n0
+>password: yo199
 
-* password: yo199
-
+## Endpoints
