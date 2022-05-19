@@ -12,9 +12,8 @@ urlpatterns = [
     path('cadastro/', include('intmed.urls')),
     path('medicos/', views.DoctorViewSet.as_view({'get': 'list'})),
     path('agendas/', views.AgendaViewSet.as_view({'get': 'list'})),
-    #path('', include(router.urls)),  
-    path('consultas/', views.ConsultaViewSet.as_view({'get': 'list'}), name="consultas"),
+    path('', include(router.urls)),  
+    #path('consultas/', views.ConsultaViewSet.as_view({'get': 'list'}), name="consultas"),
     path('consulta/', views.ConsultaViewSet.as_view({'post': 'create'}), name="consulta"),
-    
     
 ]
