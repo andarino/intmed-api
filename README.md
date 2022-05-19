@@ -33,3 +33,15 @@ GET| /consultas/| Lista todos as consultas
 GET| /agenda/| Lista as agendas 
 POST| /consultas | Cadastra uma consulta
 DELETE| /conulsta/<pk> |Exclui a Consulta com a PK informada
+  
+  
+### Notas importantes:
+[x] A listagem não deve exibir consultas para dia e horário passados (v)
+[x] Agendas para datas passadas ou que todos os seus horários já foram preenchidos devem ser excluídas da listagem (v)
+[x] Não deve ser possível desmarcar uma consulta que nunca foi marcada (identificador inexistente) (v)
+[x] Não deve ser possível criar uma agenda para um médico em um dia passado (v)
+[x] Não deve ser possível marcar consultas para dia e horário passados (v)
+[x] Não deve ser possível criar mais de uma agenda para um médico em um mesmo dia (v)
+[x] Não deve ser possível marcar consultas para um dia e horário não disponível (v)  
+  
+  
