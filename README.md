@@ -61,5 +61,5 @@ DELETE| /consultas/<pk> |Exclui a Consulta com a PK informada
 - [x] Não deve ser possível criar mais de uma agenda para um médico em um mesmo dia
   
 - [x] Não deve ser possível marcar consultas para um dia e horário não disponível
-  
-  
+   
+  Notas: No [Issues](https://github.com/Intmed-Software/desafio/issues) 
