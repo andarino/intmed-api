@@ -31,8 +31,8 @@ Método | Recurso | Descricão
 -------|---------|----------
 GET| /consultas/| Lista todos as consultas 
 GET| /agenda/| Lista as agendas 
-POST| /consultas | Cadastra uma consulta
-DELETE| /consulta/<pk> |Exclui a Consulta com a PK informada
+POST| /consulta | Cadastra uma consulta
+DELETE| /consultas/<pk> |Exclui a Consulta com a PK informada
  
 - Exemplo de como marcar uma consulta:
 	
