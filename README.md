@@ -62,4 +62,4 @@ DELETE| /consultas/<pk> |Exclui a Consulta com a PK informada
   
 - [x] Não deve ser possível marcar consultas para um dia e horário não disponível
    
-  Notas: No [Issues](https://github.com/Intmed-Software/desafio/issues) 
+Notas/Impressões: No [Issues](https://github.com/Intmed-Software/desafio/issues) do desafio consta que o referido é para pleno ou sênior, no entanto, gostaria de ressaltar que, como conversamos na entrevista, almejo a vaga de backend júnior. Esse foi meu primeiro contato com django, apesar de previamente já ter trabalhado com spring e python, foquei no projeto em backend porque esse é meu objetivo de carreira, lidar com um framework novo foi realmente desafiador, durante a semana do desafio me dediquei ao máximo lendo a documentação e aplicando os conceitos ao projeto. O CRUD está funcional e operante, qualquer dúvida: tj.vinci97@gmail.com. Abraços.
